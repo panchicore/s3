@@ -9,6 +9,8 @@ This project is to make an AI to perform a duet with a music artist. The AI can 
 
 #### Music generation
 
+Magenta: https://www.youtube.com/watch?v=2f20d0LJSuk
+
 AI Duet: https://experiments.withgoogle.com/ai-duet
 
 FlowMachines: https://www.flow-machines.com/
