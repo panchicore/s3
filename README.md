@@ -17,6 +17,8 @@ FlowMachines: https://www.flow-machines.com/
 
 Text To Sample: https://samplab.com/text-to-sample
 
+Audiogen: https://www.audiogen.co/
+
 #### Visuals generation
 
 -
